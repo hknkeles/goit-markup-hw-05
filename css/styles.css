@@ -459,6 +459,9 @@ margin-left: 30px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     color: var(--white);
     caret-color: var(--white);
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 0.04em;
 }
 
 .email-input::placeholder{
@@ -480,7 +483,7 @@ margin-left: 30px;
     background-color: var(--iris);
     color: var(--white);
     cursor: pointer;
-    font-family: inherit;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: inherit;
