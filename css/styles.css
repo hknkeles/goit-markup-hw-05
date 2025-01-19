@@ -450,7 +450,7 @@ margin-left: 30px;
 }
 
 .email-input{
-    max-width: 264px;
+    width: 264px;
     height: 40px;
     background-color: transparent;
     padding: 8px 0 8px 16px;
